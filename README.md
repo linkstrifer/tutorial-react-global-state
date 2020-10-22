@@ -315,4 +315,4 @@ export default () => (
 
 Y listo, asi podemos manejar el estado global de nuestra aplicación usando `React.Context`, nuestro propio hook de React y `useReducer`.
 
-Puedes encontrar el codigo completo del proyecto en la carpeta `project` de [este repositorio](https://github.com/linkstrifer/tutorial-react-global-state/).
+Puedes encontrar el codigo completo del proyecto en la carpeta `project` de [este repositorio](https://github.com/linkstrifer/tutorial-react-global-state/tree/main/project).
